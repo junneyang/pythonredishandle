@@ -20,10 +20,10 @@ a simple example for redis handle with python,which demostrates the redis featur
 * please read the source code directly.     
     
 ### Screenshots:    
-**1.screenshot of starting redis server:**
+**1.screenshot of starting redis server:**    
 ![image](screenshot/redis_server_start.png)    
 
-**2.screenshot of test script running:**
+**2.screenshot of test script running:**    
 ![image](screenshot/test_result.png)     
 
 ### Kindly Reminder:
