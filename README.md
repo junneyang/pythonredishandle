@@ -17,8 +17,15 @@ a simple example for redis handle with python,which demostrates the redis featur
 * python-redis-client=>>https://pypi.python.org/pypi/redis/2.9.1    
     
 ### Usage:
-* please read the source code directly.    
+* please read the source code directly.     
     
+### Screenshots:    
+**1.screenshot of starting redis server:**
+![image](screenshot/redis_server_start.png)    
+
+**2.screenshot of test script running:**
+![image](screenshot/test_result.png)     
+
 ### Kindly Reminder:
 If any questions, please contact JunneYang 597092663@qq.com.
 
